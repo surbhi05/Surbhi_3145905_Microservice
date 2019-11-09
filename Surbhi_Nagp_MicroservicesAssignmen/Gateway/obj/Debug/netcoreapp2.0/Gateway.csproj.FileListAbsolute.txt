@@ -1,0 +1,11 @@
+D:\Nagarro\NAGP\Microservices\Assignment\Surbhi_Nagp_MicroservicesAssignmen\Gateway\bin\Debug\netcoreapp2.0\Gateway.deps.json
+D:\Nagarro\NAGP\Microservices\Assignment\Surbhi_Nagp_MicroservicesAssignmen\Gateway\bin\Debug\netcoreapp2.0\Gateway.runtimeconfig.json
+D:\Nagarro\NAGP\Microservices\Assignment\Surbhi_Nagp_MicroservicesAssignmen\Gateway\bin\Debug\netcoreapp2.0\Gateway.runtimeconfig.dev.json
+D:\Nagarro\NAGP\Microservices\Assignment\Surbhi_Nagp_MicroservicesAssignmen\Gateway\bin\Debug\netcoreapp2.0\Gateway.dll
+D:\Nagarro\NAGP\Microservices\Assignment\Surbhi_Nagp_MicroservicesAssignmen\Gateway\bin\Debug\netcoreapp2.0\Gateway.pdb
+D:\Nagarro\NAGP\Microservices\Assignment\Surbhi_Nagp_MicroservicesAssignmen\Gateway\obj\Debug\netcoreapp2.0\Gateway.csprojAssemblyReference.cache
+D:\Nagarro\NAGP\Microservices\Assignment\Surbhi_Nagp_MicroservicesAssignmen\Gateway\obj\Debug\netcoreapp2.0\Gateway.csproj.CoreCompileInputs.cache
+D:\Nagarro\NAGP\Microservices\Assignment\Surbhi_Nagp_MicroservicesAssignmen\Gateway\obj\Debug\netcoreapp2.0\Gateway.AssemblyInfoInputs.cache
+D:\Nagarro\NAGP\Microservices\Assignment\Surbhi_Nagp_MicroservicesAssignmen\Gateway\obj\Debug\netcoreapp2.0\Gateway.AssemblyInfo.cs
+D:\Nagarro\NAGP\Microservices\Assignment\Surbhi_Nagp_MicroservicesAssignmen\Gateway\obj\Debug\netcoreapp2.0\Gateway.dll
+D:\Nagarro\NAGP\Microservices\Assignment\Surbhi_Nagp_MicroservicesAssignmen\Gateway\obj\Debug\netcoreapp2.0\Gateway.pdb
