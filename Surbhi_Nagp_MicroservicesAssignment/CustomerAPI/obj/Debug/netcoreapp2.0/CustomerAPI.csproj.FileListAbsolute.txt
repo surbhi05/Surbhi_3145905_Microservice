@@ -8,3 +8,6 @@ D:\Nagarro\NAGP\Microservices\Assignment\Surbhi_3145905_Microservice\Surbhi_Nagp
 D:\Nagarro\NAGP\Microservices\Assignment\Surbhi_3145905_Microservice\Surbhi_Nagp_MicroservicesAssignment\CustomerAPI\obj\Debug\netcoreapp2.0\CustomerAPI.csprojAssemblyReference.cache
 D:\Nagarro\NAGP\Microservices\Assignment\Surbhi_3145905_Microservice\Surbhi_Nagp_MicroservicesAssignment\CustomerAPI\obj\Debug\netcoreapp2.0\CustomerAPI.AssemblyInfoInputs.cache
 D:\Nagarro\NAGP\Microservices\Assignment\Surbhi_3145905_Microservice\Surbhi_Nagp_MicroservicesAssignment\CustomerAPI\obj\Debug\netcoreapp2.0\CustomerAPI.AssemblyInfo.cs
+D:\Nagarro\NAGP\Microservices\Assignment\Surbhi_3145905_Microservice\Surbhi_Nagp_MicroservicesAssignment\CustomerAPI\bin\Debug\netcoreapp2.0\CustomerAPI.pdb
+D:\Nagarro\NAGP\Microservices\Assignment\Surbhi_3145905_Microservice\Surbhi_Nagp_MicroservicesAssignment\CustomerAPI\obj\Debug\netcoreapp2.0\CustomerAPI.dll
+D:\Nagarro\NAGP\Microservices\Assignment\Surbhi_3145905_Microservice\Surbhi_Nagp_MicroservicesAssignment\CustomerAPI\obj\Debug\netcoreapp2.0\CustomerAPI.pdb

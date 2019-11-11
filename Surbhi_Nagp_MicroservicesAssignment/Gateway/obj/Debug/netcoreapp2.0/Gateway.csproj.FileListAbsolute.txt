@@ -12,3 +12,6 @@ D:\Nagarro\NAGP\Microservices\Assignment\Surbhi_3145905_Microservice\Surbhi_Nagp
 D:\Nagarro\NAGP\Microservices\Assignment\Surbhi_3145905_Microservice\Surbhi_Nagp_MicroservicesAssignment\Gateway\obj\Debug\netcoreapp2.0\Gateway.AssemblyInfoInputs.cache
 D:\Nagarro\NAGP\Microservices\Assignment\Surbhi_3145905_Microservice\Surbhi_Nagp_MicroservicesAssignment\Gateway\obj\Debug\netcoreapp2.0\Gateway.AssemblyInfo.cs
 D:\Nagarro\NAGP\Microservices\Assignment\Surbhi_3145905_Microservice\Surbhi_Nagp_MicroservicesAssignment\Gateway\obj\Debug\netcoreapp2.0\Gateway.RazorTargetAssemblyInfo.cache
+D:\Nagarro\NAGP\Microservices\Assignment\Surbhi_3145905_Microservice\Surbhi_Nagp_MicroservicesAssignment\Gateway\bin\Debug\netcoreapp2.0\Gateway.pdb
+D:\Nagarro\NAGP\Microservices\Assignment\Surbhi_3145905_Microservice\Surbhi_Nagp_MicroservicesAssignment\Gateway\obj\Debug\netcoreapp2.0\Gateway.dll
+D:\Nagarro\NAGP\Microservices\Assignment\Surbhi_3145905_Microservice\Surbhi_Nagp_MicroservicesAssignment\Gateway\obj\Debug\netcoreapp2.0\Gateway.pdb
