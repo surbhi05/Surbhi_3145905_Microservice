@@ -1,0 +1,14 @@
+D:\Nagarro\NAGP\Microservices\Assignment\Surbhi_3145905_Microservice\Surbhi_Nagp_MicroservicesAssignment\Gateway\bin\Debug\netcoreapp2.0\appsettings.Development.json
+D:\Nagarro\NAGP\Microservices\Assignment\Surbhi_3145905_Microservice\Surbhi_Nagp_MicroservicesAssignment\Gateway\bin\Debug\netcoreapp2.0\appsettings.json
+D:\Nagarro\NAGP\Microservices\Assignment\Surbhi_3145905_Microservice\Surbhi_Nagp_MicroservicesAssignment\Gateway\bin\Debug\netcoreapp2.0\ocelot.json
+D:\Nagarro\NAGP\Microservices\Assignment\Surbhi_3145905_Microservice\Surbhi_Nagp_MicroservicesAssignment\Gateway\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+D:\Nagarro\NAGP\Microservices\Assignment\Surbhi_3145905_Microservice\Surbhi_Nagp_MicroservicesAssignment\Gateway\bin\Debug\netcoreapp2.0\Gateway.deps.json
+D:\Nagarro\NAGP\Microservices\Assignment\Surbhi_3145905_Microservice\Surbhi_Nagp_MicroservicesAssignment\Gateway\bin\Debug\netcoreapp2.0\Gateway.runtimeconfig.json
+D:\Nagarro\NAGP\Microservices\Assignment\Surbhi_3145905_Microservice\Surbhi_Nagp_MicroservicesAssignment\Gateway\bin\Debug\netcoreapp2.0\Gateway.runtimeconfig.dev.json
+D:\Nagarro\NAGP\Microservices\Assignment\Surbhi_3145905_Microservice\Surbhi_Nagp_MicroservicesAssignment\Gateway\bin\Debug\netcoreapp2.0\Gateway.dll
+D:\Nagarro\NAGP\Microservices\Assignment\Surbhi_3145905_Microservice\Surbhi_Nagp_MicroservicesAssignment\Gateway\obj\Debug\netcoreapp2.0\Gateway.csprojAssemblyReference.cache
+D:\Nagarro\NAGP\Microservices\Assignment\Surbhi_3145905_Microservice\Surbhi_Nagp_MicroservicesAssignment\Gateway\obj\Debug\netcoreapp2.0\Gateway.RazorAssemblyInfo.cache
+D:\Nagarro\NAGP\Microservices\Assignment\Surbhi_3145905_Microservice\Surbhi_Nagp_MicroservicesAssignment\Gateway\obj\Debug\netcoreapp2.0\Gateway.RazorAssemblyInfo.cs
+D:\Nagarro\NAGP\Microservices\Assignment\Surbhi_3145905_Microservice\Surbhi_Nagp_MicroservicesAssignment\Gateway\obj\Debug\netcoreapp2.0\Gateway.AssemblyInfoInputs.cache
+D:\Nagarro\NAGP\Microservices\Assignment\Surbhi_3145905_Microservice\Surbhi_Nagp_MicroservicesAssignment\Gateway\obj\Debug\netcoreapp2.0\Gateway.AssemblyInfo.cs
+D:\Nagarro\NAGP\Microservices\Assignment\Surbhi_3145905_Microservice\Surbhi_Nagp_MicroservicesAssignment\Gateway\obj\Debug\netcoreapp2.0\Gateway.RazorTargetAssemblyInfo.cache

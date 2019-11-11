@@ -1,0 +1,10 @@
+D:\Nagarro\NAGP\Microservices\Assignment\Surbhi_3145905_Microservice\Surbhi_Nagp_MicroservicesAssignment\ChequeBookAPI\bin\Debug\netcoreapp2.0\appsettings.Development.json
+D:\Nagarro\NAGP\Microservices\Assignment\Surbhi_3145905_Microservice\Surbhi_Nagp_MicroservicesAssignment\ChequeBookAPI\bin\Debug\netcoreapp2.0\appsettings.json
+D:\Nagarro\NAGP\Microservices\Assignment\Surbhi_3145905_Microservice\Surbhi_Nagp_MicroservicesAssignment\ChequeBookAPI\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+D:\Nagarro\NAGP\Microservices\Assignment\Surbhi_3145905_Microservice\Surbhi_Nagp_MicroservicesAssignment\ChequeBookAPI\bin\Debug\netcoreapp2.0\ChequeBookAPI.deps.json
+D:\Nagarro\NAGP\Microservices\Assignment\Surbhi_3145905_Microservice\Surbhi_Nagp_MicroservicesAssignment\ChequeBookAPI\bin\Debug\netcoreapp2.0\ChequeBookAPI.runtimeconfig.json
+D:\Nagarro\NAGP\Microservices\Assignment\Surbhi_3145905_Microservice\Surbhi_Nagp_MicroservicesAssignment\ChequeBookAPI\bin\Debug\netcoreapp2.0\ChequeBookAPI.runtimeconfig.dev.json
+D:\Nagarro\NAGP\Microservices\Assignment\Surbhi_3145905_Microservice\Surbhi_Nagp_MicroservicesAssignment\ChequeBookAPI\bin\Debug\netcoreapp2.0\ChequeBookAPI.dll
+D:\Nagarro\NAGP\Microservices\Assignment\Surbhi_3145905_Microservice\Surbhi_Nagp_MicroservicesAssignment\ChequeBookAPI\obj\Debug\netcoreapp2.0\ChequeBookAPI.csprojAssemblyReference.cache
+D:\Nagarro\NAGP\Microservices\Assignment\Surbhi_3145905_Microservice\Surbhi_Nagp_MicroservicesAssignment\ChequeBookAPI\obj\Debug\netcoreapp2.0\ChequeBookAPI.AssemblyInfoInputs.cache
+D:\Nagarro\NAGP\Microservices\Assignment\Surbhi_3145905_Microservice\Surbhi_Nagp_MicroservicesAssignment\ChequeBookAPI\obj\Debug\netcoreapp2.0\ChequeBookAPI.AssemblyInfo.cs

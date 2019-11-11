@@ -1,0 +1,10 @@
+D:\Nagarro\NAGP\Microservices\Assignment\Surbhi_3145905_Microservice\Surbhi_Nagp_MicroservicesAssignment\AccountAPI\bin\Debug\netcoreapp2.0\appsettings.Development.json
+D:\Nagarro\NAGP\Microservices\Assignment\Surbhi_3145905_Microservice\Surbhi_Nagp_MicroservicesAssignment\AccountAPI\bin\Debug\netcoreapp2.0\appsettings.json
+D:\Nagarro\NAGP\Microservices\Assignment\Surbhi_3145905_Microservice\Surbhi_Nagp_MicroservicesAssignment\AccountAPI\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+D:\Nagarro\NAGP\Microservices\Assignment\Surbhi_3145905_Microservice\Surbhi_Nagp_MicroservicesAssignment\AccountAPI\bin\Debug\netcoreapp2.0\AccountAPI.deps.json
+D:\Nagarro\NAGP\Microservices\Assignment\Surbhi_3145905_Microservice\Surbhi_Nagp_MicroservicesAssignment\AccountAPI\bin\Debug\netcoreapp2.0\AccountAPI.runtimeconfig.json
+D:\Nagarro\NAGP\Microservices\Assignment\Surbhi_3145905_Microservice\Surbhi_Nagp_MicroservicesAssignment\AccountAPI\bin\Debug\netcoreapp2.0\AccountAPI.runtimeconfig.dev.json
+D:\Nagarro\NAGP\Microservices\Assignment\Surbhi_3145905_Microservice\Surbhi_Nagp_MicroservicesAssignment\AccountAPI\bin\Debug\netcoreapp2.0\AccountAPI.dll
+D:\Nagarro\NAGP\Microservices\Assignment\Surbhi_3145905_Microservice\Surbhi_Nagp_MicroservicesAssignment\AccountAPI\obj\Debug\netcoreapp2.0\AccountAPI.csprojAssemblyReference.cache
+D:\Nagarro\NAGP\Microservices\Assignment\Surbhi_3145905_Microservice\Surbhi_Nagp_MicroservicesAssignment\AccountAPI\obj\Debug\netcoreapp2.0\AccountAPI.AssemblyInfoInputs.cache
+D:\Nagarro\NAGP\Microservices\Assignment\Surbhi_3145905_Microservice\Surbhi_Nagp_MicroservicesAssignment\AccountAPI\obj\Debug\netcoreapp2.0\AccountAPI.AssemblyInfo.cs
