@@ -8,5 +8,11 @@ namespace WebApp
     public class ConfigSettings
     {
         public string Message { get; set; }
+
+        public string CustomerApiUrl { get; set; }
+
+        public string AccountApiUrl { get; set; }
+
+        public string ChequeBookApiUrl { get; set; }
     }
 }
