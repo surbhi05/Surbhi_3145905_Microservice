@@ -17,7 +17,7 @@ namespace WebApp
         protected override string Run()
         {
             var client = new HttpClient();
-            var response = client.GetAsync("https://localhost:7002/api/values").Result;
+            var response = client.GetAsync("https://localhost:7001/api/customer").Result;
             var data = response.Content.ReadAsStringAsync().Result;
             return data;
         }

@@ -23,7 +23,7 @@ namespace AccountAPI.Controllers
             return "value";
         }
 
-        // POST api/values
+        // POST api/account
         [HttpPost]
         public void Post([FromBody]string value)
         {

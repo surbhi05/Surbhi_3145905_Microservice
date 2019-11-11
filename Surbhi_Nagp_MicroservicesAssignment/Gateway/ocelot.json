@@ -1,14 +1,14 @@
 ﻿{
   "ReRoutes": [
     {
-      "DownstreamPathTemplate": "/api/values",
+      "DownstreamPathTemplate": "/api/customer",
       "DownstreamScheme": "http",
       "UseServiceDiscovery": true,
       "ServiceName": "customerservice",
       "UpstreamPathTemplate": "/customer-api/{catchAll}"
     },
     {
-      "DownstreamPathTemplate": "/api/values",
+      "DownstreamPathTemplate": "/api/account",
       "DownstreamScheme": "http",
       "UseServiceDiscovery": true,
       "ServiceName": "accountservice",
@@ -16,7 +16,7 @@
       "UpstreamHttpMethod": []
     },
     {
-      "DownstreamPathTemplate": "/api/values",
+      "DownstreamPathTemplate": "/api/chequebook",
       "DownstreamScheme": "http",
       "UseServiceDiscovery": true,
       "ServiceName": "chequebookservice",
