@@ -7,16 +7,16 @@ using Microsoft.AspNetCore.Mvc;
 namespace AccountAPI.Controllers
 {
     [Route("api/[controller]")]
-    public class ValuesController : Controller
+    public class AccountController : Controller
     {
-        // GET api/values
+        // GET api/account
         [HttpGet]
-        public IEnumerable<string> Get()
+        public string Get()
         {
-            return new string[] { "value1", "value2" };
+            return "I am account API";
         }
 
-        // GET api/values/5
+        // GET api/account/5
         [HttpGet("{id}")]
         public string Get(int id)
         {
@@ -29,13 +29,13 @@ namespace AccountAPI.Controllers
         {
         }
 
-        // PUT api/values/5
+        // PUT api/account/5
         [HttpPut("{id}")]
         public void Put(int id, [FromBody]string value)
         {
         }
 
-        // DELETE api/values/5
+        // DELETE api/account/5
         [HttpDelete("{id}")]
         public void Delete(int id)
         {
